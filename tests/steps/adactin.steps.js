@@ -8,7 +8,7 @@ import{Given,When,Then} from '@cucumber/cucumber';
 
  let loginpage;
  let searchhotel;
- let selecthotel;
+ let selecthotel; 
  let bookhotelpage;
  let bookconfirm;
  let logoutpage;

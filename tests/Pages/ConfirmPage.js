@@ -6,5 +6,6 @@ export class ConfirmPage{
     }
     async Itinerary(){
       await this.ItineraryConfirm.click()
+      
     }
 }

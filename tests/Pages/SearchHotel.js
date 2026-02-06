@@ -40,6 +40,7 @@ export class SearchHotel{
     await this.searchBtn.click();
     //thendral
     //te
-    
+    //the
+
     }
 }

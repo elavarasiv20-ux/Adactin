@@ -38,5 +38,8 @@ export class SearchHotel{
     }
     async searchbutton(){
     await this.searchBtn.click();
+    //thendral
+    //te
+    
     }
 }
